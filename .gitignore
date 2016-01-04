@@ -1,3 +1,11 @@
+/Drivers
+/Inc
+/MDK-ARM
+/Src
+.mxproject
+Nano-OS.ioc
+
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
